@@ -1,7 +1,7 @@
 # 🐯 MTP — Macan Transfer Protocol
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-v1.1.0-FF9E0B?style=for-the-badge" alt="Release Version" />
+  <img src="https://img.shields.io/badge/Release-v1.1.1-FF9E0B?style=for-the-badge" alt="Release Version" />
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
   <img src="https://img.shields.io/badge/Architecture-Jetpack%20Compose-4285F4?style=for-the-badge" alt="Jetpack Compose" />  
 </p>
